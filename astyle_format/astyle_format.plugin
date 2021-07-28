@@ -1,0 +1,6 @@
+[Plugin]
+Loader=python3
+Module=astyle_format
+IAge=3
+Name=AStyle Format
+Description=Format document using AStyle utility
